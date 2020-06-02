@@ -19,3 +19,5 @@ for i in range (1,sheet.max_row+1):
 
 print(Dic)
 print(Dic1)
+print("dren dren")
+print("azzul azzul")
